@@ -7,4 +7,6 @@ Hello I am updating
 iasfasi
 asdf
 on 11/12/2024 Sunday
-ii
+# Development Environment
+
+Currently i am on weeek last lecture which is about git and github
