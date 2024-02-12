@@ -6,4 +6,8 @@ if(n % 2 != 0){
 else{
 	return false;  
 }})
+const ans2 = input.map((n)=>{
+return n + 2;
+})
 console.log(ans);
+console.log(ans2);
